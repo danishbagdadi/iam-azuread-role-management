@@ -1,0 +1,10 @@
+Date (UTC),Service,Category,Activity,Result
+2025-09-10T22:45:57.1282836Z,Core Directory,UserManagement,Delete user,Success
+2025-09-10T22:37:18.6583022Z,Core Directory,RoleManagement,Add member to role,Success
+2025-09-10T22:36:42.3684321Z,Core Directory,RoleManagement,Remove member from role,Success
+2025-09-10T22:33:54.6521545Z,Core Directory,RoleManagement,Add member to role,Success
+2025-09-10T22:32:02.238135Z,Core Directory,RoleManagement,Add member to role,Success
+2025-09-10T22:29:26.0606239Z,Core Directory,RoleManagement,Add member to role,Success
+2025-09-10T22:22:18.8191689Z,Core Directory,UserManagement,Add user,Success
+2025-09-10T22:21:36.7264045Z,Core Directory,UserManagement,Add user,Success
+2025-09-10T22:20:29.6273623Z,Core Directory,UserManagement,Add user,Success
